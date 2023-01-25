@@ -141,7 +141,7 @@ b. Print a square pattern, if the input is 3 then the output should be similar t
 	   ***
 	   ***
 
-	c. Print a pyramid pattern, if the input is 3 then the output should be similar to the given output
+c. Print a pyramid pattern, if the input is 3 then the output should be similar to the given output
 	     *
 	    ***
  	   *****
